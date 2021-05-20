@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "DEH Summer Institute 2021"
-baseURL = "localhost:1313"
+baseURL = "https://jeremyfprice.github.io/dehsi2021/"
 canonifyURLs = true
 theme = "cupper"
 publishDir = "docs"

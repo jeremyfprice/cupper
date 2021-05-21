@@ -1,6 +1,7 @@
 /* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400;1,700&family=Rokkitt:wght@400;700&display=swap');
 @font-face {
-    font-family: Rokkit;/*'Miriam Libre';
+    font-family: Rokkitt;/*'Miriam Libre';
     src: url('fonts/miriamlibre-bold.woff2') format('woff2'), url('fonts/miriamlibre-bold.woff') format('woff');*/
     font-weight: bold;
     font-style: normal;
@@ -107,7 +108,7 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: Miriam Libre, serif;
+    font-family: Rokkitt, Miriam Libre, serif;
     line-height: 1.125;
 }
 h1 {
